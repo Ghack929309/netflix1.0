@@ -12,12 +12,12 @@ import {
 } from "firebase/auth";
 
 const firebaseConfig = {
-	apiKey: "AIzaSyDvLCShuUJAwc4oJA7SLdbRbryJ9IzcdXk",
-	authDomain: "netflix1-0.firebaseapp.com",
+	apiKey: "",
+	authDomain: "",
 	projectId: "netflix1-0",
-	storageBucket: "netflix1-0.appspot.com",
+	storageBucket: "t.com",
 	messagingSenderId: "114581670926",
-	appId: "1:114581670926:web:457592e52e8822c4ba405f",
+	appId: "1:114581670926:web:",
 };
 
 const app = initializeApp(firebaseConfig);
